@@ -15,7 +15,7 @@
 Problem Description
 
 Write a function named  `capitalizeWords` that takes a string (`sentence`) as input and returns a new string where **the first letter of each word is capitalized**.
-
+i = index in for loops
 Constraint: You cannot use the `str.split()` method for this solution.
 
 ```jsx
